@@ -3,9 +3,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.831493.svg)](https://doi.org/10.1109/CDC.2018.8619178)
 
 
-# Distributed-Sensor-Fault-Accommodation-for-HVAC-systems
-Distributed Sensor Fault Accommodation of Multi-Zone HVAC Systems
-
 Distributed-Sensor-Fault-Accommodation-for-HVAC-systems
 ==================================
 
